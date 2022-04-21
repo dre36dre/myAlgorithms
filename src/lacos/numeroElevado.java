@@ -19,6 +19,10 @@ System.out.println(numero+"^"+expoente+"="+res);
 	
 	
 		static double calculo(double num, double exp) {
+			for (int i=10;i<=100;i+=10) {
+			System.out.println(i);
+//			i+=10;
+			}
 			return Math.pow(num, exp);
 
 	
