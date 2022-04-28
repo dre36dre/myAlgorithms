@@ -15,6 +15,6 @@ public static void cal() {
 		}
 		media=soma/cont;
 	}
-	System.out.println("Quantidade: "+cont+ "\nsoma= "+soma+"\nMedia= "+media);
+	System.out.println("Quantidade:  "+cont+ "\nsoma= "+soma+"\nMedia= "+media);
 }
 }
