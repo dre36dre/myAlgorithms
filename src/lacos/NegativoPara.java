@@ -18,7 +18,7 @@ public static void calculo() {
 	Scanner entrada=new Scanner(System.in);
 		
 	do {
-		System.out.print("Digite um valor: ");
+		System.out.print("Digite um valor válido: ");
 	valor=entrada.nextInt();
 	soma+=valor;
 	total++;
