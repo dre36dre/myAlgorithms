@@ -1,5 +1,12 @@
 package lacos;
 
+//Programa que lê nome  e dos comodos de uma casa e 
+//calcula area.Caso o usuário responda "Não" o programa 
+//deve apresentar o valor total da area residencial
+
+
+
+
 import java.util.Scanner;
 
 public class Comodos {
