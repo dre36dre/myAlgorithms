@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class TresXMatriz {
 
-	int i=0;
 public static void main(String[] args) {
 TresXMatriz.calculoMatriz();	
 }
